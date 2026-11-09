@@ -1,0 +1,13 @@
+# Archivos generados
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+
+# Credenciales locales
+Presentacion/conexion.config
+
+# Proyecto retirado de la solución
+Coneccion/
